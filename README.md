@@ -1,3 +1,2 @@
 # Sentiment_Analysis
-Assignment project for sentiment analysis
-Created via Google Colab
+Project for sentiment analysis. Written in python on Google Colab.
