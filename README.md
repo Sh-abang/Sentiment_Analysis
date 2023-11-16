@@ -12,9 +12,13 @@ The dataset used for training was of movie reviews.
 
 #### Positive
 A word cloud generated from positive reviews was as seen
-[!Positive Word Cloud](positive_cloud.png)
+![Positive Word Cloud](positive_cloud.png)
 
 #### Negative
-A word cloud generated from positive reviews was as seen
-[!Positive Word Cloud](negative_cloud.png)
+A word cloud generated from negative reviews was as seen
+![Negative Word Cloud](negative_cloud.png)
+
+### Confussion Matrix
+The confussion matrix generated and accuracy after testing are as seen
+![Positive Word Cloud](confussion_matrix.png)
 
