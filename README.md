@@ -19,6 +19,6 @@ A word cloud generated from negative reviews was as seen
 ![Negative Word Cloud](negative_cloud.png)
 
 ### Confussion Matrix
-The confussion matrix generated and accuracy after testing are as seen
+The confussion matrix generated and accuracy of about 76% after testing are as seen
 ![Positive Word Cloud](confussion_matrix.png)
 
